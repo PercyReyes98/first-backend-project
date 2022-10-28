@@ -1,14 +1,14 @@
 {
   "name": "proyecto-7",
   "version": "1.0.0",
-  "description": "backend-renzo",
+  "description": "desarrollo del backend y transcripcion de una web statica",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js"
   },
-  "author": "percy-backend-renzo-frotend",
+  "author": "percy-backend//renzo-frotend",
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.8",
